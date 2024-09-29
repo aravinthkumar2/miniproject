@@ -1,0 +1,30 @@
+body{
+    font-family: "Halant", serif;
+}
+.header{
+    position: sticky;
+    top: 0;
+}
+
+.Nav-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(168, 163, 163);
+    height: 70px;
+    position: sticky;
+    align-items: center;
+   
+}
+
+.search{
+    width: 1000px;
+    border-radius: 7px;
+    height: 50px;
+}
+.button{
+    border-radius: 10px;
+    background-color: aqua;
+    color: white;
+    
+
+}

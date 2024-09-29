@@ -1,0 +1,19 @@
+
+.cat-cont{
+    width: 300px;
+    height: 200px;
+   
+    text-align: center;
+}
+.container-1{
+    margin-left: 30px;
+}
+.cat-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px;
+}
+.cat-cont img{
+    width: 250px;
+    margin-top: 10px;
+}
